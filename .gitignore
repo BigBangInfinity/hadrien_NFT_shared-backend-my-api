@@ -1,9 +1,9 @@
-yarn.lock
+#yarn.lock
 tsconfig.build.json
 test/jest-e2e.json
 test/app.e2e-spec.ts
 nest-cli.json
-package.json
+#package.json
 README.md
 .eslintrc.js
 .prettierrc
